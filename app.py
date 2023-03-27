@@ -14,7 +14,8 @@ import logging
 logName = 'MyProgram.log'
 logDir = 'log'
 logPath = logDir + '/' + logName
-#1231321231231121131312
+# 1231321231231121131312
+# uchuihecuhcuheuchueeee
 
 # create log directory
 os.makedirs(logDir, exist_ok=True)
